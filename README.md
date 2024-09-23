@@ -1,2 +1,2 @@
 # AnalisisSeaLevelAnomaly
-Sintaks untuk pengolahan data Sea Level Anomay dari Marine Copernicus
+Sintaks untuk pengolahan data Sea Level Anomaly dari Marine Copernicus
